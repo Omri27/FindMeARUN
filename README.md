@@ -1,2 +1,0 @@
-# FindMeARUN
-Server side
